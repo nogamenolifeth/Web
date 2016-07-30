@@ -1,0 +1,40 @@
+/*
+Name: Bootstrap V.1
+*/
+body{
+	background-image: url('http://i.stack.imgur.com/IehB7.png');
+}
+.mycontent{
+	background-color:rgba(0,0,0,0.5);
+	font-size:16px;
+	padding-bottom: 25px;
+	padding-top: 25px;
+	color:#FFFFFF;
+}
+footer{
+	margin-top:20px;
+	background-color:rgba(72,97,108,0.5);
+	padding-top:10px;
+	color:#FFFFFF;
+	min-height:30px;
+}
+.text-left{
+	text-align: left !important;
+}
+.text-right{
+	text-align: right !important;
+}
+.img-header{
+	width:100%;
+	height: auto;
+}
+.img-home-card{
+	width:242px;
+	height:300px;
+}
+.img-list-view{
+	max-width:300px;
+}
+.table-list-eposide{
+	padding:15px;
+}
